@@ -1,8 +1,6 @@
 # 2025_02_28
 "Eat Your Own Catfood."
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Project Nonnon
 
 In GitHub, each releases are managed by date
@@ -22,6 +20,3 @@ Xcode can open (maybe)<br>
 
 "Nonnon for Mac" repo has latest binaries.<br>
 https://github.com/cheznonnon/Nonnon_for_Mac
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
